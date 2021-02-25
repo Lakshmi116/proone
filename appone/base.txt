@@ -1,3 +1,4 @@
+  
 \documentclass[a4paper,10pt]{report}
 \usepackage[margin=0in ]{geometry}
 \usepackage{latexsym}
@@ -89,11 +90,11 @@
 
 \textbf
 
-\textbf{\huge Nikitha}\\
-{Roll No. 190102052}&\href{mailto:nikithareddy@gmail.com}{ nikithareddy@gmail.com}\\
-{Btech. -ECE}& Mobile : 9848670705\\
-{Minor in CSE}&\href{mailto:m.nikitha@iitg.ac.in}{ m.nikitha@iitg.ac.in}\\
-{IITG} & \href{https://www.linkedin.com/in/nikitha2309/}{linkedin.com/in/nikitha2309}
+{\huge Nikitha Reddy}\\
+{Roll No. 190102052}&\href{mailto:nikithareddy2309@gmail.com}{ nikithareddy2309@gmail.com}\\
+{B.Tech. - Electronics and Communication Engineering}& Mobile : +91-9848670705\\
+{Minor in Computer Science and Engineering} &\href{mailto:nikithareddy2309@gmail.com}{ nikithareddy2309@gmail.com}\\
+{IIT Guwahati} & \href{https://www.linkedin.com/in/nikitha2309/}{linkedin.com/in/nikitha2309}
 
 \end{tabular*}
 }
@@ -110,8 +111,9 @@
  \begin{tabu} to 1\textwidth { | X[c] | X[c] | X[c] | X[c]| }
  \hline  { \textbf{Degree/Certificate} & \textbf{Institute/Board} & \textbf{CGPA/Percentage} & \textbf{Year}} \\
  
-\hline d1& c1& p1& y1\\
-\hline d2& c2& p2& y2\\
+ \hline B.Tech.& IIT, Guwahati & 0  & 2019 - Present \\
+ \hline  B.Tech.& IIT, Guwahati & 0  & 2019 - Present \\
+ \hline B.Tech.& IIT, Guwahati & 0  & 2019 - Present \\
 
 \hline
 \end{tabu}
@@ -125,30 +127,29 @@
 \section{Projects}
 \resumeSubHeadingListStart
 
-\resumeSubheading{title1}{date1}{club1}{\href{link1}{\textit{\small link1   }}}
-\begin{itemize}
-\item desc1
- \end{itemize}
-\vspace{2pt}
-
-\resumeSubheading{title2}{date2}{club2}{\href{link2}{\textit{\small link2   }}}
-\begin{itemize}
-\item desc2
- \end{itemize}
-\vspace{2pt}
-
-\resumeSubheading{title3}{date3}{club3}{\href{link3}{\textit{\small link3   }}}
-\begin{itemize}
-\item desc3
- \end{itemize}
-\vspace{2pt}
-
-\resumeSubheading{title4}{date4}{club4}{\href{link4}{\textit{\small link4   }}}
-\begin{itemize}
-\item desc4
- \end{itemize}
-\vspace{2pt}
-
+  \resumeSubheading{Open Resumes}{Ongoing}{swc}{\href{https://git.io/JLbMB}{\textit{\small https://git.io/JLbMB    }}}
+  \begin{itemize}
+      \item A  project to develop a Resume generator using Django framework which helps to make a neat and quick resume using LaTeX
+  \end{itemize}
+  \vspace{2pt}
+  
+ \resumeSubheading{Open Resumes}{Ongoing}{swc}{\href{https://github.com/Nikitha2309/Open-Resumes}{\textit{\small https://git.io/JLbMB    }}}
+  \begin{itemize}
+      \item A  project to develop a Resume generator using Django framework which helps to make a neat and quick resume using LaTeX
+  \end{itemize}
+  \vspace{2pt}
+  
+  \resumeSubheading{Open Resumes}{Ongoing}{swc}{\href{https://github.com/Nikitha2309/Open-Resumes}{\textit{\small https://git.io/JLbMB    }}}
+  \begin{itemize}
+      \item A  project to develop a Resume generator using Django framework which helps to make a neat and quick resume using LaTeX
+  \end{itemize}
+  \vspace{2pt}
+  
+  \resumeSubheading{Open Resumes}{Ongoing}{swc}{\href{https://github.com/Nikitha2309/Open-Resumes}{\textit{\small https://git.io/JLbMB    }}}
+  \begin{itemize}
+      \item A  project to develop a Resume generator using Django framework which helps to make a neat and quick resume using LaTeX
+  \end{itemize}
+  \vspace{2pt}
   
 \resumeSubHeadingListEnd
 %----------Projects-----------------Ends----------------
@@ -162,12 +163,12 @@
 
  \resumeSubHeadingListStart
  
-\resumeSubItem{Programming Languages}{pllang}
-\resumeSubItem{Web Technologies}{webtech}
-\resumeSubItem{DBMS}{dbms}
-\resumeSubItem{OS}{os}
-\resumeSubItem{Miscelleneous}{miscell}
-\resumeSubItem{Other Skills}{otherskills}
+ \resumeSubItem{Programming Languages}{C++,C, Python*}
+ \resumeSubItem{Web Technologies}{ HTML, CSS* }
+ \resumeSubItem{DBMS}{MongoDB}
+  \resumeSubItem{OS}{Windows}
+  \resumeSubItem{Miscelleneous}{KungFU}
+ \resumeSubItem{Other Skills}{Deep Sleeper}
  
  \hfill * \textit{Elimentary Profficiency}
  
@@ -184,9 +185,14 @@
  \begin{multicols}{2}
  \begin{itemize}[leftmargin = *,itemsep=-3pt]
 
-\item ma101
-\item webd101
-\item cpp110
+\item Introduction to Computing (Theory and Lab)
+\item Introduction to Computing (Theory and Lab)
+\item Introduction to Computing (Theory and Lab)
+\item Introduction to Computing (Theory and Lab)
+\item Introduction to Computing (Theory and Lab)
+\item Introduction to Computing (Theory and Lab)
+\item Introduction to Computing (Theory and Lab)
+\item Introduction to Computing (Theory and Lab)
 
  \end{itemize}
  \end{multicols}
@@ -201,30 +207,29 @@
 \section{Positions of Responsibility}
 \resumeSubHeadingListStart
 
-\resumeSubItem{title1}
+\resumeSubItem{PR & Branding Team, Alcheringa}
 {\vspace{-7pt}
 \begin{itemize}
-\item desc1
+    \item Maintain Public Relations and manage Branding work related to fest
 \end{itemize} }
 
-\resumeSubItem{title2}
+\resumeSubItem{PR & Branding Team, Alcheringa}
 {\vspace{-7pt}
 \begin{itemize}
-\item desc2
+    \item Maintain Public Relations and manage Branding work related to fest
 \end{itemize} }
 
-\resumeSubItem{title3}
+\resumeSubItem{PR & Branding Team, Alcheringa}
 {\vspace{-7pt}
 \begin{itemize}
-\item desc3
+    \item Maintain Public Relations and manage Branding work related to fest
 \end{itemize} }
 
-\resumeSubItem{title4}
+\resumeSubItem{PR & Branding Team, Alcheringa}
 {\vspace{-7pt}
 \begin{itemize}
-\item desc4
+    \item Maintain Public Relations and manage Branding work related to fest
 \end{itemize} }
-
 
 \vspace{-2pt}
 \resumeSubHeadingListEnd
@@ -238,12 +243,12 @@
 \section{Achievements}
 \resumeSubHeadingListStart
   
-\resumeSubItem{title1}{desc1}
-\resumeSubItem{title2}{desc2}
-\resumeSubItem{title3}{desc3}
-\resumeSubItem{title4}{desc4}
-\resumeSubItem{title5}{desc5}
-\resumeSubItem{title6}{desc6}
+  \resumeSubItem{Joint Entrance Examination - Mains 2019}{Achieved All India Rank 1811 among  6,08,440 students }
+  \resumeSubItem{Joint Entrance Examination - Mains 2019}{Achieved All India Rank 1811 among  6,08,440 students }
+  \resumeSubItem{Joint Entrance Examination - Mains 2019}{Achieved All India Rank 1811 among  6,08,440 students }
+  \resumeSubItem{Joint Entrance Examination - Mains 2019}{Achieved All India Rank 1811 among  6,08,440 students }
+  \resumeSubItem{Joint Entrance Examination - Mains 2019}{Achieved All India Rank 1811 among  6,08,440 students }
+  \resumeSubItem{Joint Entrance Examination - Mains 2019}{Achieved All India Rank 1811 among  6,08,440 students }
 
 \resumeSubHeadingListEnd
 %----------Achievements-----------------Ends----------------

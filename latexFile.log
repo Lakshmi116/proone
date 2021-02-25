@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.6)  25 FEB 2021 14:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.6)  25 FEB 2021 15:05
 entering extended mode
-**./test.tex
-(test.tex
+**./latexFile.tex
+(latexFile.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03>
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -468,8 +468,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen190
 \Gin@req@width=\dimen191
-) (test.aux)
-\openout1 = `test.aux'.
+) (latexFile.aux)
+\openout1 = `latexFile.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
@@ -557,9 +557,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 75.
 LaTeX Info: Redefining \pageref on input line 75.
 LaTeX Info: Redefining \nameref on input line 75.
- (test.out) (test.out)
+ (latexFile.out) (latexFile.out)
 \@outlinefile=\write3
-\openout3 = `test.out'.
+\openout3 = `latexFile.out'.
 
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 79
 .
@@ -583,11 +583,11 @@ End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 8781 strings out of 479618
- 134611 string characters out of 2866452
- 541363 words of memory out of 3000000
- 25796 multiletter control sequences out of 15000+200000
+ 8770 strings out of 479618
+ 134559 string characters out of 2866452
+ 541373 words of memory out of 3000000
+ 25790 multiletter control sequences out of 15000+200000
  404202 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,4n,75p,223b,114s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,4n,75p,228b,114s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
